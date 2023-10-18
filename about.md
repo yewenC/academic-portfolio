@@ -8,3 +8,5 @@ permalink: /about/
 
 Welcome to ...
 简单介绍课题组情况，附新闻？
+
+<h2>Updates</h2>

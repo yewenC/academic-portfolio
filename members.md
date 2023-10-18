@@ -4,18 +4,18 @@ title: members
 permalink: /members/
 ---
 
-Principal Investigator
+<h2>Principal Investigator</h2>
 
 
 
-Current PostDocs & Research Assistants
+<h2>Current PostDocs & Research Assistants</h2>
 
 
 
-Current PhD Students
+<h2>Current PhD Students</h2>
 
 
 
-Alumni
+<h2>Alumni</h2>
 
 

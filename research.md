@@ -4,9 +4,10 @@ permalink: /research/
 title: Research
 ---
 
-Describe your research interests here.
+研究领域围绕无线通信，有三部分
 
-<h2>Publications</h2>
+<h2>方向1</h2>
+简单介绍
 <ul>
 	<li>
 		<b>"Paper title #1"</b><br>
@@ -22,7 +23,7 @@ Describe your research interests here.
 	</li><br>
 </ul>
 
-<h2>Research Projects</h2>
+<h2>方向2</h2>
 <ul>
 	<li>
 		<b>Project title</b><br>
@@ -38,7 +39,7 @@ Describe your research interests here.
 	</li><br>
 </ul>
 
-<h2>Research Implementations</h2>
+<h2>方向3</h2>
 <ul>
 	<li>
 		<b>Title #1</b>: Brief description of this research implementation.<br>

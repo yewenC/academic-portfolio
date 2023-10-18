@@ -10,11 +10,11 @@
 - title: "members"
   href: "/members/"
 
-- title: "CV"
-  href: "/cv/"
+- title: "teaching"
+  href: "/teaching/"
 
-- title: "Miscellany"
-  href: "/miscellany/"
+- title: "openings"
+  href: "/openings/"
   subcategories:
     - subtitle: "Courses Undertaken"
       subhref: "/miscellany/courses/"

@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 ---
 
-研究领域围绕无线通信，有三部分
+研究领域围绕，有三部分
 
 <h2>方向1</h2>
 简单介绍

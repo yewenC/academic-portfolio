@@ -8,10 +8,9 @@ permalink: /openings/
 <div align="center">
   < img src="path/to/image.jpg" alt="个人图片">
 </div>
-
 <br>
 <p align="center">
-  <span style="font-size: 1.5em;">姓名</span>
+  <span style="font-size: 1.5em;">Yewen CAO</span>
 </p >
 <br>
 _started Aug 2024_  

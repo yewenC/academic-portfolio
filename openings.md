@@ -9,7 +9,11 @@ permalink: /openings/
   < img src="path/to/image.jpg" alt="个人图片">
 </div>
 
-**Yewen CAO**
+<br>
+<p align="center">
+  <span style="font-size: 2em;">姓名</span>
+</p >
+<br>
 _started Aug 2024_  
 _research interests: wireless communications, signal processing, IoT_  
 _email: 2200201101@stu.hit.edu.cn_  

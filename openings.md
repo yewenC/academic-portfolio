@@ -11,7 +11,7 @@ permalink: /openings/
 
 <br>
 <p align="center">
-  <span style="font-size: 2em;">姓名</span>
+  <span style="font-size: 1.5em;">姓名</span>
 </p >
 <br>
 _started Aug 2024_  

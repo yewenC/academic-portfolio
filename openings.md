@@ -8,7 +8,7 @@ permalink: /openings/
 <div align="center">
   < img src="cyw.jpg" alt="个人图片">
 </div>
-{% include image.html url="/images/profile.jpg" caption="ttt" width=300 align="centre" %}
+{% include image.html url="/images/profile.jpg" caption="ttt" width=300 align="center" %}
 <br>
 <p align="center">
   <span style="font-size: 1.5em;">Yewen CAO</span>

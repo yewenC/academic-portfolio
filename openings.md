@@ -6,7 +6,7 @@ permalink: /openings/
 
 
 <div align="center">
-  < img src="path/to/image.jpg" alt="个人图片">
+  < img src="cyw.jpg" alt="个人图片">
 </div>
 <br>
 <p align="center">
